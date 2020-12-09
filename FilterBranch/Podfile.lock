@@ -1,0 +1,20 @@
+PODS:
+  - PanModal (1.2.7)
+  - Then (2.7.0)
+
+DEPENDENCIES:
+  - PanModal
+  - Then
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - PanModal
+    - Then
+
+SPEC CHECKSUMS:
+  PanModal: 3e16ead1a907fb06f4df3f13492fd00149fa4974
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+
+PODFILE CHECKSUM: aec291452f41d79ef603bd85d82bbbb0f82458df
+
+COCOAPODS: 1.10.0

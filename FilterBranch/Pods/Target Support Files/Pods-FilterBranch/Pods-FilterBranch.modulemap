@@ -1,0 +1,6 @@
+framework module Pods_FilterBranch {
+  umbrella header "Pods-FilterBranch-umbrella.h"
+
+  export *
+  module * { export * }
+}
